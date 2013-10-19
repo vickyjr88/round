@@ -1,0 +1,14 @@
+#our-roundi{
+		width:100%;
+	max-width:320px;
+	height:600px;
+		border:#cecece 2px solid;
+	}
+	
+#wrapper{
+		width:100%;
+	max-width:310px;
+	padding:5px;
+
+	margin:0 auto;
+	}
